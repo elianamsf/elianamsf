@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello!
+I'm an ABAP / SAP developer with a focus on WebDynpro.
+I am passionate about technology and development.
+
+I am graduating in Bachelor of Information Systems at UFRPE, where I fell in love with Python, Data Science and Data Engineering.
+
+I have knowledge in ABAP and Python.
+And I am studying Web, mainly JavaScript, Node.js and React.
