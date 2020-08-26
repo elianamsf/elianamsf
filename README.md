@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!
-I'm an ABAP / SAP developer with a focus on WebDynpro.
-I am passionate about technology and development.
+My name is Eliana França!😃 I am majoring in Bachelor of Information Systems at UFRPE. 💻📚  Where I fell in love with Python, Data Science and Data Engineering.❤️
+- 🔭 I’m currently working as a developer in ABAP/WebDynpro/SAP at Accenture Brazil
+- 🌱 I’m currently learning Web, mainly JavaScript, Node.js and React.
+- 💖 I'm passionate about technology and development.👩🏽‍💻
 
-I am graduating in Bachelor of Information Systems at UFRPE, where I fell in love with Python, Data Science and Data Engineering.
 
-I have knowledge in ABAP and Python.
-And I am studying Web, mainly JavaScript, Node.js and React.
+[![Linkedin Badge](https://img.shields.io/badge/-Eliana%20França-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliana-f-252786b5/)](https://www.linkedin.com/in/eliana-f-252786b5/)
