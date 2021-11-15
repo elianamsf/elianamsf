@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Eliana França!😃  
 I am majoring in Bachelor of Information Systems at UFRPE, where I fell in love with Python, Data Science and Data Engineering. 💻📚❤️
-- 🔭 I’m currently working as a developer in ABAP/WebDynpro/SAP at Accenture Brazil
+- 🔭 I’m currently working as a Senior developer in SAP at Accenture Brazil
 - 🌱 I’m currently learning Web, mainly JavaScript, Node.js and React.
 - 💖 I'm passionate about technology and development.👩🏽‍💻  
 
