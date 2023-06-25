@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 My name is Eliana França!😃  
-I have a bachelor's degree in Information Systems from UFRPE, where I fell in love with Python, Data Science and Machine Learning. 💻📚❤️
 I am currently doing an Academic Master's Degree in the Graduate Program in Applied Informatics at UFRPE 💻📚❤️
+I have a bachelor's degree in Information Systems from UFRPE, where I fell in love with Python, Data Science and Machine Learning. 💻📚❤️
 - 🔭 I’m currently working as a Senior developer in SAP at Accenture Brazil
 - 🌱 I’m currently learning Web, mainly JavaScript, Node.js and React.
 - 💖 I'm passionate about technology and development.👩🏽‍💻  
